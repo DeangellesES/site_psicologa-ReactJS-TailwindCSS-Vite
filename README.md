@@ -23,10 +23,10 @@
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
   <li>Paradigma de programação Estruturado</li>
-  <li>Manipulação do DOM com JavaScript</li>
-  <li>reset css utilizado</li>
-  <li>JavaScript organizado em vários arquivos JS</li>
-  <li>tabelas criadas com table, thead, tbody, tr e th</li>
-  <li>pseudo elemento com content=""</li>
-  
+  <li>icones utilizados do react icons</li>
+  <li>react router dom para navegação entre páginas</li>
+  <li>Tailwind CSS para estiliação com classes utilitárias e cdn no arquivo index.html</li>
+  <li>icone na aba pelo arquivo index.html</li>
+  <li>swiper para fazer carossel instalado com npm</li>
+  <li>bastante efeito :hover com tailwind</li>
 </ul>
