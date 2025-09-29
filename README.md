@@ -14,7 +14,10 @@
 
 <h2>✨ Funcionalidades</h2>
 <ul>
-  <li>Divulgar serviçoes</li>
+  <li>Divulgar serviços</li>
+  <li>Informações de contato e localização</li>
+  <li>Mostrar redes sociais</li>
+  <li>Informações sobre o profissional(a)</li>
 </ul>
 
 <h2>⚙️ Detalhes Técnicos</h2>
