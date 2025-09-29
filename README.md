@@ -22,7 +22,6 @@
 
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
-  <li>Paradigma de programação Estruturado</li>
   <li>icones utilizados do react icons</li>
   <li>react router dom para navegação entre páginas</li>
   <li>Tailwind CSS para estiliação com classes utilitárias e cdn no arquivo index.html</li>
