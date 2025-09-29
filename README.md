@@ -14,7 +14,7 @@
 
 <h2>✨ Funcionalidades</h2>
 <ul>
-  <li>Calcular IMC</li>
+  <li>Divulgar serviçoes</li>
 </ul>
 
 <h2>⚙️ Detalhes Técnicos</h2>
